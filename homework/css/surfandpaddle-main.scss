@@ -1,0 +1,89 @@
+img {
+  width:100%
+}
+html, body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.gray-button {
+  background: rgb(173, 173, 177);
+  color:white;
+}
+.blu-button {
+  background: rgb(10, 38, 88);
+  color:white;
+}
+.primary-text-size {
+  font-size: 10px;
+}
+.lt-blu-text {
+  color: #1560FB;
+}
+.dk-blu-text {
+  color:rgb(10, 38, 88)
+}
+.nav {
+  background-color: green;
+  min-height: 25px;
+}
+.saplogo {
+  width: 5%;
+}
+.headlines {
+  font-size: 20px;
+}
+.headlines2 {
+  font-size: 40px;
+}
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.companyname > h1 {
+  font-size: 25px;
+    color: red;
+}
+.jtbackground {
+  background-color: transparent;
+  text-align: center;
+  color: white;
+  text-shadow: 5px black;
+}
+
+.phototop {
+  background-image:url(https://unsplash.it/1440/686/?random);
+  min-height: 200px;
+  min-width: 100%;
+}
+
+.jamespic {
+  width: 5%;
+}
+
+.jamespic2 {
+  width: 30%;
+  margin-top: 50px;
+  margin-bottom: 5px;
+}
+.sidebar-pic {
+width: 70%;
+}
+.sidebar-head-margin {
+  margin-top: 35px;
+}
+.popularpost {
+  display: flex;
+  // flex-direction: column;
+}
+.post1 {
+  flex:2;
+}
+.post2 {
+    flex: 2;
+}
+.post3 {
+    flex: 2;
+}
+.post4 {
+    flex: 2;
+}
